@@ -60,7 +60,7 @@ npm start
 
 
 4. **Access the Platform:**
-Open your web browser and go to https://aniiikettt.github.io/STUTOR_-main/ to access Stutor.
+Open your web browser and go to https://aniiikettt.github.io/STUTOR/ to access Stutor.
 
 ## Contributing
 
